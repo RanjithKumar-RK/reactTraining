@@ -1,1 +1,72 @@
-
+{
+    "active": {
+        "count": "4",
+        "jobs": [
+            {
+                "role": "Digital Marketing",
+                "published": "Apr 09, 2020",
+                "invited": "200",
+                "shortlisted": "50",
+                "onhold": "10",
+                "rejected": "130",
+                "hired": "0"
+            },
+            {
+                "role": "Product Manager",
+                "published": "Apr 05, 2020",
+                "invited": "150",
+                "shortlisted": "30",
+                "onhold": "10",
+                "rejected": "100",
+                "hired": "0"
+            },
+            {
+                "role": "Software Developer",
+                "published": "Mar 07, 2020",
+                "invited": "150",
+                "shortlisted": "30",
+                "onhold": "10",
+                "rejected": "100",
+                "hired": "0"
+            },
+            {
+                "role": "Sales Manager",
+                "published": "Jan 05, 2020",
+                "invited": "150",
+                "shortlisted": "30",
+                "onhold": "10",
+                "rejected": "100",
+                "hired": "4"
+            }
+        ]
+    },
+    "cardData": [
+        {
+            "job": "30",
+            "opening": "10"
+        },
+        {
+            "total": "294",
+            "invited": "286",
+            "shortlisted": "189",
+            "onhold": "24",
+            "offered": "48",
+            "hired": "16",
+            "rejected": "48"
+        },
+        {
+            "tasks": [
+                {
+                    "taskName": "Interview taken by 'Nick Cage'",
+                    "taskDate": "19/08/2019",
+                    "rating": "4"
+                },
+                {
+                    "taskName": "Assessment taken by 'Nick Cage'",
+                    "taskDate": "19/08/2019",
+                    "rating": "5"
+                }
+            ]
+        }
+    ]
+}
