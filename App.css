@@ -1,0 +1,8 @@
+.topbar{
+    padding: 20px;
+}
+.roundedBorder{
+    padding: 20px;
+    border: 2px;
+    border-radius: 20%;
+}
