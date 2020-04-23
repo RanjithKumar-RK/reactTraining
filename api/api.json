@@ -47,12 +47,32 @@
         },
         {
             "total": "294",
-            "invited": "286",
-            "shortlisted": "189",
-            "onhold": "24",
-            "offered": "48",
-            "hired": "16",
-            "rejected": "48"
+            "chartData": [
+                {
+                    "tag": "Invited",
+                    "count": "286"
+                },
+                {
+                    "tag": "Shortlisted",
+                    "count": "189"
+                },
+                {
+                    "tag": "On Hold",
+                    "count": "24"
+                },
+                {
+                    "tag": "Offer Rolled Out",
+                    "count": "48"
+                },
+                {
+                    "tag": "Hired",
+                    "count": "16"
+                },
+                {
+                    "tag": "Rejected",
+                    "count": "48"
+                }
+            ]
         },
         {
             "tasks": [
